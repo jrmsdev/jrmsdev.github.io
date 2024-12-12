@@ -1,0 +1,36 @@
+Experienced GNU/Linux and FreeBSD systems administrator with expertise in
+deploying, maintaining, and securing enterprise-level infrastructures.
+Proficient in tools like Docker, Ansible, and ZFS, with a strong focus on
+performance optimization and uptime reliability.
+
+-----
+
+I am passionate about systems administration and aim to continue excelling in
+this field, leveraging my expertise to deliver robust and efficient
+infrastructure solutions while continually expanding my skill set.
+
+-----
+
+Dear [Hiring Manager's Name],
+
+I am excited to apply for the [Job Title] position at [Company Name]. With over
+two decades of experience as a systems administrator, I bring a wealth of
+knowledge and a proven ability to adapt to evolving technologies.
+
+Since beginning my career in 2003, I have consistently stayed ahead of industry
+changes by embracing new tools and methodologies. My strength lies not in being
+an expert in a single area, but in my methodical approach to learning and
+mastering emerging technologies. This adaptability has enabled me to tackle
+diverse challenges effectively, and I am always eager to embrace new
+opportunities for growth.
+
+I am confident that my skills, passion, and commitment to excellence will make
+me a valuable asset to your team. I would welcome the opportunity to contribute
+to [Company Name]'s success and to discuss how my background aligns with your
+needs.
+
+Thank you for considering my application. I look forward to the possibility of
+contributing to your team.
+
+Sincerely,
+[Your Name]
