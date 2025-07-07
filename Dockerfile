@@ -67,6 +67,6 @@ RUN npx --version
 RUN hugo version
 
 ENV HUGO_BASEURL http://localhost:8045
-ENV HUGO_ENVIRONMENT devel
+ENV HUGO_ENVIRONMENT development
 
 ENTRYPOINT /usr/local/bin/user-login.sh

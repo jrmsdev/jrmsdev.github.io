@@ -1,8 +1,8 @@
 #!/bin/sh
 set -eu
 
-HUGO_CLVQ_BUILD=$(date '+%s')
-export HUGO_CLVQ_BUILD
+HUGO_JRMSDEV_BUILD=$(date '+%s')
+export HUGO_JRMSDEV_BUILD
 
 hugo/mkdeps.sh
 
@@ -14,5 +14,4 @@ exec hugo server \
 	--noHTTPCache \
 	--watch \
 	--logLevel debug \
-	--renderToMemory \
-	--environment devel
+	--renderToMemory
