@@ -2,6 +2,7 @@
 title: CV
 date: 2023-07-07T12:19:00-03:00
 draft: false
+type: page
 ---
 
 [Cover Letter](/CV/cover-letter.txt)
