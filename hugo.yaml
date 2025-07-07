@@ -2,3 +2,10 @@ baseURL: https://jrmsdev.githug.io
 languageCode: en-us
 title: jrmsdev
 theme: jrmsdev
+
+disableKinds:
+  - section
+  - RSS
+  - taxonomy
+
+enableRobotsTXT: false
