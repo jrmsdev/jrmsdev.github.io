@@ -1,0 +1,10 @@
+{
+  "name": "jrmsdev",
+  "scripts": {
+    "build": "hugo/build.sh",
+    "dev": "hugo/devel.sh"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
